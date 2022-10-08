@@ -6,3 +6,6 @@ Functional requirements for the project:
     2.User Management (CRUD).
     3.The role system.
     4.Logging user actions.
+    5.Character creation.
+    6.Character upgrade system.
+    7.Battle system.
