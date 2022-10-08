@@ -7,5 +7,6 @@ Functional requirements for the project:
     3.The role system.
     4.Logging user actions.
     5.Character creation.
+        VIP users can create unique classes.
     6.Character upgrade system.
     7.Battle system.
